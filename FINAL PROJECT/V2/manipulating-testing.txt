@@ -1,0 +1,29 @@
+*** Start of Comparing Strings Demo ***
+Type the 1st string to compare (q - to quit):
+c o m p u t e r
+Type the 2nd string to compare:
+c o m p u t e r
+'c o m p u t e r' is equal to 'c o m p u t e r'
+Type the 1st string to compare (q - to quit):
+computer
+Type the 2nd string to compare:
+computer
+'computer' is equal to 'computer'
+Type the 1st string to compare (q - to quit):
+
+Type the 2nd string to compare:
+space
+' ' string is less than 'space'
+Type the 1st string to compare (q - to quit):
+computer
+Type the 2nd string to compare:
+game
+'computer' string is greater than 'game'
+Type the 1st string to compare (q - to quit):
+Q
+Type the 2nd string to compare:
+q
+'Q' string is less than 'q'
+Type the 1st string to compare (q - to quit):
+q
+*** End of Comparing Strings Demo ***

@@ -1,0 +1,34 @@
+*** Start of Indexing Strings Demo ***
+Type not empty string (q to quit):
+ABcdefgH
+Type the character position within the string:
+4
+The character found at 4 position is 'e'
+Type not empty string (q to quit):
+1234567890
+Type the character position within the string:
+9
+The character found at 9 position is '0'
+Type not empty string (q to quit):
+helloeveryone
+Type the character position within the string:
+12
+The character found at 12 position is 'e'
+Type not empty string (q to quit):
+!@#$%^&*()
+Type the character position within the string:
+5
+The character found at 5 position is '^'
+Type not empty string (q to quit):
+0987654321
+Type the character position within the string:
+
+The character found at 0 position is '0'
+Type not empty string (q to quit):
+1234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890
+Type the character position within the string:
+Too big... Position reduced to max. availbale
+The character found at 77 position is '8'
+Type not empty string (q to quit):
+q
+*** End of Indexing Strings Demo ***

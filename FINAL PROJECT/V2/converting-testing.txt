@@ -1,0 +1,12 @@
+*** start of Converting Strings to double Demo ***
+Type the double numberric string (q - to quit):
+!@#$%^&
+Converted number is 0.000000
+Type the double numberric string (q - to quit):
+0.123123123
+Converted number is 0.123123
+Type the double numberric string (q - to quit):
+0 . 12345
+Converted number is 0.000000
+Type the double numberric string (q - to quit):
+

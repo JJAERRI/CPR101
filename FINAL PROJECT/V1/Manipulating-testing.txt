@@ -1,0 +1,34 @@
+*** Start of Concatenating Strings Demo ***
+Type the 1st string (q - to quit):
+Hello
+Type the 2st string:
+World
+Concatenated string is
+HelloWorld
+Type the 1st string (q - to quit):
+Hello
+Type the 2st string:
+Earth
+Concatenated string is
+Hello Earth
+Type the 1st string (q - to quit):
+ABCDEFGHIJKLMNOPQRSTUVWXYZABCDEFGHIJKLMNOPQRSTUVWXYZ
+Type the 2st string:
+ABCDEFGHIJKLMNOPQRSTUVWXYZABCDEFGHIJKLMNOPQRSTUVWXYZ
+Concatenated string is
+
+Type the 1st string (q - to quit):
+ab
+Type the 2st string:
+cd
+Concatenated string is
+abcd
+Type the 1st string (q - to quit):
+987
+Type the 2st string:
+654
+Concatenated string is
+987654
+Type the 1st string (q - to quit):
+q
+*** End of Concatenating Strings Demo ***

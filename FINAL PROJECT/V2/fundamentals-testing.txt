@@ -1,0 +1,24 @@
+*** Start of Measuring Strings Demo ***
+Type a string (q - to quit):
+this is final project !!!
+The length of 'this is final project !!!' is 25 characters
+Type a string (q - to quit):
+\n\n\n\n\n\n\n\n
+The length of '\n\n\n\n\n\n\n\n' is 16 characters
+Type a string (q - to quit):
+
+The length of '' is 0 characters
+Type a string (q - to quit):
+  3  6  9  12  15
+The length of '  3  6  9  12  15' is 17 characters
+Type a string (q - to quit):
+" " " " " " " " "
+The length of '" " " " " " " " "' is 17 characters
+Type a string (q - to quit):
+rkskekfkakqktkdkwkckzkxkvkgkdkdktpwhdeodhkddmsdnleogkekduddjfkddmsckdnjsdlekfmekrmsidtoruemfdjttpwhdeodhkddmsWkddldi
+The length of 'rkskekfkakqktkdkwkckzkxkvkgkdkdktpwhdeodhkddmsdnleogkekduddjfkddmsckdnjsdlekfm' is 78 characters
+Type a string (q - to quit):
+The length of 'krmsidtoruemfdjttpwhdeodhkddmsWkddldi' is 37 characters
+Type a string (q - to quit):
+q
+*** End of Measuring Strings Demo ***

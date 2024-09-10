@@ -1,0 +1,42 @@
+*** Start of Tokenizing Phrases Demo ***
+Type a few phrases seperated by comma(q - to quit):
+this, is, version, 2
+phrase is #1 is 'this'
+phrase is #2 is ' is'
+phrase is #3 is ' version'
+phrase is #4 is ' 2'
+Type a few phrases seperated by comma(q - to quit):
+1234,5678,9101112
+phrase is #1 is '1234'
+phrase is #2 is '5678'
+phrase is #3 is '9101112'
+Type a few phrases seperated by comma(q - to quit):
++_,)(,*&,^%$,#@!
+phrase is #1 is '+_'
+phrase is #2 is ')('
+phrase is #3 is '*&'
+phrase is #4 is '^%$'
+phrase is #5 is '#@!'
+Type a few phrases seperated by comma(q - to quit):
+TOKEN, , , VERSION, , 22,,
+phrase is #1 is 'TOKEN'
+phrase is #2 is ' '
+phrase is #3 is ' '
+phrase is #4 is ' VERSION'
+phrase is #5 is ' '
+phrase is #6 is ' 22'
+Type a few phrases seperated by comma(q - to quit):
+   , DIRJE,JEIFJ,    ,
+phrase is #1 is '   '
+phrase is #2 is ' DIRJE'
+phrase is #3 is 'JEIFJ'
+phrase is #4 is '    '
+phrase is #5 is '    '
+Type a few phrases seperated by comma(q - to quit):
+,,,WOW,,,CPR,,,101,,,
+phrase is #1 is 'WOW'
+phrase is #2 is 'CPR'
+phrase is #3 is '101'
+Type a few phrases seperated by comma(q - to quit):
+q
+*** End of the Tokenizing Phrases Demo ***

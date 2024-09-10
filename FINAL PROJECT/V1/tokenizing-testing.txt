@@ -1,0 +1,39 @@
+*** Start of Tokenizing Words Demo ***
+Type a few words seperated by space (q - to quit):
+ Hello, my name is Mark
+
+Word #1 is 'Hello,'
+Word #2 is 'my'
+Word #3 is 'name'
+Word #4 is 'is'
+Word #5 is 'Mark'
+Type a few words seperated by space (q - to quit):
+HelloMyNameIsMark
+
+Word #1 is 'HelloMyNameIsMark'
+Type a few words seperated by space (q - to quit):
+1234 5678 
+
+Word #1 is '1234'
+Word #2 is '5678'
+Type a few words seperated by space (q - to quit):
+!@#$ %^&*
+
+Word #1 is '!@#$'
+Word #2 is '%^&*'
+Type a few words seperated by space (q - to quit):
+
+
+Type a few words seperated by space (q - to quit):
+asdfhioadaofodsiafdanfaskdnfpasdifsdfoiphsaifhsdopifhsopdfisdhfsaodifashdfposidfhaspdoifsahfoaspfasidfhsadoifhdsoifnaiondifoasdpifjapsodifhasdoifhaspdoifnsdoifhasdoifhldsgkhsd;lfgiasdhpfoaisdnfa;lsdf;haosdufhpasfosdnfklsd;fhas;ldhfgladgnd;gnjkncxuyvoxuiuypoiasjgsdn;fglkjbnxuchvb;zxcjhaksdlngalsdkjfhalsdkfhsdjfhasdlfasudfyalskudfhkasl
+
+Word #1 is 'asdfhioadaofodsiafdanfaskdnfpasdifsdfoiphsaifhsdopifhsopdfisdhfsaodifashdfposidfhaspdoifsahfoaspfasidfhsadoifhdsoifnaiondifoasdpifjapsodifhasdoifhaspdoifnsdoifhasdoifhldsgkhsd;lfgiasdhpfoaisdnfa;lsdf;haosdufhpasfosdnfklsd;fhas;ldhfgladgnd;gnjkncxuyvoxuiuypoiasjgsdn;fglkjbnxuchvb;zxcjhaksdlngalsdkj'
+Type a few words seperated by space (q - to quit):
+Word #1 is 'halsdkfhsdjfhasdlfasudfyalskudfhkasl'
+
+Type a few words seperated by space (q - to quit):
+q
+
+*** End of Tokenizing Words Demo ***
+
+Program ended with exit code: 0

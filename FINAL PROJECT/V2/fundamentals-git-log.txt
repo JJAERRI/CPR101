@@ -1,0 +1,28 @@
+rhyn2@▒▒▒▒▒▒ MINGW64 ~/OneDrive/바탕 화면/CPR_FINAL (master)
+$ git status
+On branch master
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        .vs/
+        CPR_FINAL.sln
+        CPR_FINAL.vcxproj
+        CPR_FINAL.vcxproj.filters
+        CPR_FINAL.vcxproj.user
+        fundamentals.h
+        main.c
+
+nothing added to commit but untracked files present (use "git add" to track)
+
+rhyn2@▒▒▒▒▒▒ MINGW64 ~/OneDrive/바탕 화면/CPR_FINAL (master)
+$ git log
+commit f153392111abbccf1a35e39b2042e92fad519aae (HEAD -> master)
+Author: Chaerin <cyoo10@myseneca.ca>
+Date:   Fri Apr 5 20:04:30 2024 -0400
+
+    v2
+
+commit d331b894c3aa26c6e897306bacdeda0abb22e6c6
+Author: Chaerin <cyoo10@myseneca.ca>
+Date:   Fri Apr 5 20:02:34 2024 -0400
+
+    v1
